@@ -1,0 +1,45 @@
+
+h1{
+color:white;
+background-color:#EA7773;
+text-align: center;
+font-family:  'Grenze Gotisch','cursive' ;
+}
+.linktoCB{
+  text-decoration: none;
+}
+.one h2{
+color:#EA425C;
+}
+.one p{
+  letter-spacing: 3px;
+  word-spacing: -1px;
+  text-indent: 30%;
+}
+.two h2{
+color:#487EB0;
+text-align:right;
+text-decoration: overline;
+
+}
+.two p{
+text-align: right;
+word-spacing: 3.5px;
+}
+.three h2{
+color:#EEC213;
+background-color: #487EB0;
+text-align: center;
+text-decoration: underline;
+}
+.three p{
+text-align: justify;
+text-decoration: line-through;
+}
+.righttoleft{
+  direction: rtl;
+  unicode-bidi: bidi-override;
+  text-align: right;
+  letter-spacing:.5px;
+  word-spacing: 1.5px;
+}
